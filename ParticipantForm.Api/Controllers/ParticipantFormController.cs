@@ -20,14 +20,14 @@ namespace ParticipantForm.Api.Controllers
 
         [Route("participants")]
         [HttpGet]
-        public IEnumerable<Participant> GetParticipant()
+        public IEnumerable<Participant> GetParticipantForm()
         {
             return this.participantFormService.GetParticipants();
         }
 
         [Route("addParticipant")]
         [HttpPost]
-        public int CreateParticipant([FromBody] Participant participant)
+        public int CreateParticipantForm([FromBody] Participant participant)
         {
             return this.participantFormService.CreateParticipant(participant);
         }
