@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "/Users/okayikci/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/ParticipantForm.Entities.csproj",
+      "projectName": "ParticipantForm.Entities",
+      "projectPath": "/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/ParticipantForm.Entities.csproj",
+      "packagesPath": "/Users/okayikci/.nuget/packages/",
+      "outputPath": "/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/okayikci/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

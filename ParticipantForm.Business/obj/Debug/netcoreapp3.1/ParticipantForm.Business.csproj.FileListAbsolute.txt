@@ -1,0 +1,14 @@
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.Business.deps.json
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.Business.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.Business.pdb
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.DataAccess.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.DataAccess.pdb
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.pdb
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.csprojAssemblyReference.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.AssemblyInfoInputs.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.AssemblyInfo.cs
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.csproj.CoreCompileInputs.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.csproj.CopyComplete
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Business/obj/Debug/netcoreapp3.1/ParticipantForm.Business.pdb

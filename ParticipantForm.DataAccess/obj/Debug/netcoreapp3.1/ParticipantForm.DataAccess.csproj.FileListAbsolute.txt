@@ -1,0 +1,12 @@
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/bin/Debug/netcoreapp3.1/ParticipantForm.DataAccess.deps.json
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/bin/Debug/netcoreapp3.1/ParticipantForm.DataAccess.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/bin/Debug/netcoreapp3.1/ParticipantForm.DataAccess.pdb
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.pdb
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.csprojAssemblyReference.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.AssemblyInfoInputs.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.AssemblyInfo.cs
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.csproj.CoreCompileInputs.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.csproj.CopyComplete
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.DataAccess/obj/Debug/netcoreapp3.1/ParticipantForm.DataAccess.pdb

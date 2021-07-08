@@ -1,0 +1,9 @@
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.deps.json
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/bin/Debug/netcoreapp3.1/ParticipantForm.Entities.pdb
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/Debug/netcoreapp3.1/ParticipantForm.Entities.csprojAssemblyReference.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/Debug/netcoreapp3.1/ParticipantForm.Entities.AssemblyInfoInputs.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/Debug/netcoreapp3.1/ParticipantForm.Entities.AssemblyInfo.cs
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/Debug/netcoreapp3.1/ParticipantForm.Entities.csproj.CoreCompileInputs.cache
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/Debug/netcoreapp3.1/ParticipantForm.Entities.dll
+/Users/okayikci/Desktop/Participant Form Api/ParticipantForm/ParticipantForm.Entities/obj/Debug/netcoreapp3.1/ParticipantForm.Entities.pdb
