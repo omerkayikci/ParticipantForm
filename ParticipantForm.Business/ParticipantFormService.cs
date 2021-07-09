@@ -1,5 +1,7 @@
 using System.Collections.Generic;
+using System.Linq;
 using ParticipantForm.Business.Abstraction;
+using ParticipantForm.DataAccess;
 using ParticipantForm.DataAccess.Abstraction;
 using ParticipantForm.Entities.Model;
 
@@ -7,21 +9,25 @@ namespace ParticipantForm.Business
 {
     public class ParticipantFormService : IParticipantFormService
     {
-        private IParticipantFormRepository participantFormRepository;
+        
+        private ParticipantDbContext participantDbContext;
 
-        public ParticipantFormService(IParticipantFormRepository participantFormRepository)
+        public ParticipantFormService(ParticipantDbContext participantDbContext)
         {
-            this.participantFormRepository = participantFormRepository;
+            this.participantDbContext = participantDbContext;
         }
 
         public List<Participant> GetParticipants()
         {
-            return this.participantFormRepository.GetParticipants();
+            return this.participantDbContext.Participant.ToList();
         }
 
-        public int CreateParticipant(Participant participant)
+        public Participant CreateParticipant(Participant participant)
         {
-            return this.participantFormRepository.CreateParticipant(participant);
+            this.participantDbContext.Participant.Add(participant);
+            this.participantDbContext.SaveChanges();
+            
+            return participant;
         }
     }
 }

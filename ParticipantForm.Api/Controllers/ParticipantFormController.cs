@@ -27,7 +27,7 @@ namespace ParticipantForm.Api.Controllers
 
         [Route("addParticipant")]
         [HttpPost]
-        public int CreateParticipantForm([FromBody] Participant participant)
+        public Participant CreateParticipantForm([FromBody] Participant participant)
         {
             return this.participantFormService.CreateParticipant(participant);
         }

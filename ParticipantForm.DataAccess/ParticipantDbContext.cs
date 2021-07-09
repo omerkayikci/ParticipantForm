@@ -5,12 +5,12 @@ namespace ParticipantForm.DataAccess
 {
     public class ParticipantDbContext : DbContext
     {
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public ParticipantDbContext(DbContextOptions<ParticipantDbContext> options)
+            : base(options)
         {
-            base.OnConfiguring(optionsBuilder);
-            string connectionString = "Server=VODVIL\\SQLEXPRESS;Database=HotelDb;Integrated Security=True;";
-            optionsBuilder.UseSqlServer(connectionString);
+            this.Database.EnsureCreated();
         }
+
         public DbSet<Participant> Participant { get; set; }
     }
 }
